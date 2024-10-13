@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes and Interfaces","u":"allclasses-index.html"},{"p":"src.brianSittmannAev1Add","l":"App"},{"p":"src.brianSittmannAev1Add","l":"GestorArchivos"},{"p":"src.brianSittmannAev1Add","l":"UtilidadesTexto"}];updateSearchResults();
